@@ -1,0 +1,27 @@
+.mixtape {
+    margin-bottom: 51px!important;
+}
+
+.mixtape .sound__body {
+    margin-top: 27px;
+
+    transition: all .2s;
+}
+
+
+.mixtape .sound__body:before {
+    position: absolute;
+    top: -15px;
+    left: -15px;
+
+    width: calc(100% - 16px);
+    height: calc(100% - 10px);
+    padding: 20px;
+    padding-bottom: 12px;
+
+    content: '';
+    transition: all .2s;
+
+    border: 1px solid #f50;
+    border-radius: 3px;
+}
