@@ -5,7 +5,7 @@ Google Chrome Extension to Highlight Sounds Longer than 20min in Your Soundcloud
 
 # How to install?
 
-You can install Scholar Ninja through the Chrome web store: 
+You can install Mixtape Highlighter through the Chrome web store: 
 
 [![Install Extension](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png)](https://chrome.google.com/webstore/detail/mixtape-highlighter-for-s/pddaifpblijaclmimpipblpopmljlpjm)
 
