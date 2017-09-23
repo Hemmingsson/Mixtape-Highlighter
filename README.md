@@ -3,7 +3,7 @@
 
 Google Chrome Extension to Highlight Sounds Longer than 20min in Your Soundcloud Feed
 
-# How to install?
+## How to install?
 
 You can install Mixtape Highlighter through the Chrome web store: 
 
